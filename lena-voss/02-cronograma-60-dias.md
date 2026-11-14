@@ -2,9 +2,42 @@
 
 **Legenda:** 🎬 Reel · 🖼️ Carrossel · 📌 Post estático · 🔴 Live · 🔑 palavra-chave do CTA
 **Rotina diária fixa:** Reel A às 12h ET · Reel B às 19h ET · 1 Trial Reel às 21h ET (gancho alternativo de um Reel anterior) · 5 a 8 stories
-**Palavras-chave:** `DATE` → First-Date Checklist (lead magnet) · `TEXT` → 10 textos prontos (lead magnet 2) · `BOOK` → oferta direta do ebook
+**Palavras-chave:** veja a tabela abaixo
 
 > Todos os ganchos estão em inglês, prontos para gravar. O gancho é dito no 1º segundo **e** aparece escrito na tela.
+
+## Regra nº 1: todo conteúdo tem um destino de venda
+
+Nenhum Reel, carrossel, post ou story sai sem uma destas palavras-chave no final. Cada uma leva a um produto.
+
+| 🔑 | O que a pessoa recebe na DM | O que você ganha |
+|---|---|---|
+| `DATE` | First-Date Checklist grátis → depois a oferta do ebook | Venda do ebook (US$ 19) |
+| `TEXT` | 10 textos prontos grátis → depois ebook + Text Her Right | Venda do ebook + US$ 9 |
+| `BOOK` | Link direto do ebook na Stan Store | Venda do ebook (US$ 19) |
+| `READ` | Página de recursos com o livro da semana | Comissão Amazon |
+| `HELP` | Página de recursos, seção de terapia online | Comissão BetterHelp |
+| `MATCH` | Página de recursos, seção de app de namoro sério | Comissão eHarmony |
+
+**Divisão:** cerca de 80% dos conteúdos apontam para o ebook (`DATE`, `TEXT`, `BOOK`) e 20% para afiliados (`READ`, `HELP`, `MATCH`).
+
+**Persona:** a Lena se apresenta como IA. Todo Reel e imagem com o rosto dela leva o rótulo "AI info" do Instagram. Nada de "as a woman" ou "in my experience": a autoridade vem da pesquisa ("the research says", "studies on couples show").
+
+## Conteúdos de afiliado: 2 por semana (entram no lugar do 📌 post estático)
+
+| Semana | Terça: 🖼️ carrossel "Book of the week" 🔑 `READ` | Sábado: 🎬 Reel extra de afiliado |
+|---|---|---|
+| 1 | *Attached* em 7 slides: "Which attachment style are you?" | "If rejection wrecks you for weeks, read this." 🔑 `HELP` |
+| 2 | *The 5 Love Languages*: "Why your effort isn't landing" | "Tired of swiping? Where people who want commitment actually are." 🔑 `MATCH` |
+| 3 | *The Seven Principles* (Gottman): "The 4 habits that predict a breakup" | "Therapy is the most masculine thing you can do." 🔑 `HELP` |
+| 4 | *Men Are from Mars, Women Are from Venus*: "What still holds up, what doesn't" | "Dating apps vs. serious dating sites: the honest difference." 🔑 `MATCH` |
+| 5 | *How to Be an Adult in Relationships*: "The 5 A's" | "You keep dating the same type. Here's why." 🔑 `HELP` |
+| 6 | "3 books to read before your next relationship" (os 3 principais) | "Alone for the holidays? One thing to do this week." 🔑 `HELP` |
+| 7 | "Your 2027 reading list for better relationships" | "New year, serious relationship: where to start." 🔑 `MATCH` |
+| 8 | *Attached*, parte 2: "Anxious + avoidant: can it work?" | "The gym fixes your body. This fixes your patterns." 🔑 `HELP` |
+| 9 | "The 5 books, ranked" | "Ready for something real? Do this first." 🔑 `MATCH` |
+
+> Nos conteúdos de afiliado, a legenda precisa dizer "affiliate link" ou "#ad". A Lena só resume o livro e indica; não promete resultado de terapia nem de app.
 
 ---
 
@@ -16,7 +49,7 @@
 | 1 | seg 16/11 | "Women decide if they're attracted to you in the first 3 seconds. Here's what they're looking at." | "You think she's texting other guys. She's waiting for you to say something real." | 🖼️ *7 things women notice before you even speak* | DATE |
 | 2 | ter 17/11 | "Stop asking her 'what do you do?' Ask this instead." | "The nicest guy she ever dated is the one she never texted back. Here's why." | 📌 "Presence > performance." | DATE |
 | 3 | qua 18/11 | "If she replies 'haha' — do NOT send this." *(texto ruim × bom)* | "3 texts every woman responds to." | 🖼️ *Bad text vs. good text (8 examples)* | TEXT |
-| 4 | qui 19/11 | "As a woman, this is the most attractive thing a man can say on a first date." | "Why she pulled away after a great date." | — | DATE |
+| 4 | qui 19/11 | "The most attractive thing a man can say on a first date, according to the research." | "Why she pulled away after a great date." | — | DATE |
 | 5 | sex 20/11 | "You don't need more confidence. You need less of this." | "Nonsexual things women find EXTREMELY attractive, pt. 1" | 🖼️ *The 5 'nice guy' habits that kill attraction* | DATE |
 | 6 | sáb 21/11 | "Never say 'we should hang out sometime.' Say this." | "When she says 'I'm busy this week'… here's what it actually means." | 📌 "Clarity is attractive." | TEXT |
 | 7 | dom 22/11 | "Women can tell when you're performing. Here's how to stop." | **Q&A:** respondendo ao comentário mais polêmico da semana | Stories: caixinha "Ask Lena" | DATE |
@@ -27,10 +60,10 @@
 | 8 | seg 23/11 | "Don't text her 'good morning beautiful.' Text this." | "If you've been texting for 2 weeks and haven't asked her out, you've already lost." | 🖼️ *How to ask her out over text (word-for-word)* | TEXT |
 | 9 | ter 24/11 | "Texts that kill attraction, pt. 1" | "Why 'hey' is the worst opener — and what works instead." | 📌 "Text to make plans. Not to make a relationship." | TEXT |
 | 10 | qua 25/11 | "Going home for Thanksgiving single? Read this first." | "She left you on read. Do this once — then let it go." | 🖼️ *What to do when she leaves you on read* | TEXT |
-| 11 | qui 26/11 🦃 | "What I'm grateful men do (that they think nobody notices)." | "Nonsexual things women find EXTREMELY attractive, pt. 2" | — | DATE |
+| 11 | qui 26/11 🦃 | "Small things men do that women notice (and men think nobody sees)." | "Nonsexual things women find EXTREMELY attractive, pt. 2" | — | DATE |
 | 12 | sex 27/11 🛍️ | **Black Friday:** "The only thing worth buying today is this" *(lead magnet grátis)* | "Texts that kill attraction, pt. 2" | 🖼️ *10 texts that make her smile (copy-paste)* | TEXT |
 | 13 | sáb 28/11 | "How to text her after the first date (exact message)." | "Your dating app profile is losing you matches. Here's why." | 📌 citação | TEXT |
-| 14 | dom 29/11 | "Reply-to-comment" do Reel com mais comentários | "Here's what women say about you after the date (to their friends)." | Revisão da semana: escolher os 3 ganchos vencedores | DATE |
+| 14 | dom 29/11 | "Reply-to-comment" do Reel com mais comentários | "What women tell their friends after a date (and what it means for you)." | Revisão da semana: escolher os 3 ganchos vencedores | DATE |
 
 ---
 
@@ -56,7 +89,7 @@
 | 25 | qui 10/12 | "The difference between flirting and being creepy (in 20 seconds)." | "Nonsexual things women find EXTREMELY attractive, pt. 4" | — | DATE |
 | 26 | sex 11/12 | "Holiday party tip: how to talk to the woman you've been noticing." | 🤝 **COLLAB nº 2** | 🖼️ *Holiday party playbook* | DATE |
 | 27 | sáb 12/12 | "What a woman means when she says 'I'm fine.'" | "Texts that kill attraction, pt. 4" | 📌 citação | TEXT |
-| 28 | dom 13/12 | Reply-to-comment | "I wrote the book I wish every man read." *(1º teaser do ebook)* | 🔴 Live nº 2 | BOOK |
+| 28 | dom 13/12 | Reply-to-comment | "I'm an AI. I read the research on attraction so you don't have to. Here's the book." *(1º teaser do ebook)* | 🔴 Live nº 2 | BOOK |
 
 ### Dias 29–30: preparação do lançamento
 | Dia | Data | 🎬 Reel A | 🎬 Reel B | Extra | 🔑 |
@@ -71,10 +104,10 @@
 ### "Book Week" (dias 31–37)
 | Dia | Data | 🎬 Reel A | 🎬 Reel B | Extra | 🔑 |
 |---|---|---|---|---|---|
-| 31 | qua 16/12 | "#3: Never having an opinion." | "What 3 years of listening to women taught me about men." | 🖼️ *What's inside the book (chapter preview)* | BOOK |
+| 31 | qua 16/12 | "#3: Never having an opinion." | "I'm an AI with no ego and no agenda. Here's what the research says women want." | 🖼️ *What's inside the book (chapter preview)* | BOOK |
 | 32 | qui 17/12 🚀 | **LANÇAMENTO:** "It's out. 'The Intelligent Man's Guide to Women.'" | "#4: Passive aggression instead of honesty." | Stories o dia todo; preço de lançamento US$ 14 por 72 h | BOOK |
 | 33 | sex 18/12 | "Chapter 1 in 30 seconds: stop impressing, start connecting." | "#5: Fixing instead of listening." | 🖼️ *Beta readers' reactions* (só depoimentos reais) | BOOK |
-| 34 | sáb 19/12 | "#6: Letting yourself go." | "A reader DM'd me this. I had to share it." *(com autorização)* | 📌 "Last day for $14" | BOOK |
+| 34 | sáb 19/12 | "#6: Letting yourself go." | "A reader sent this DM." *(só mensagem real, com autorização)* | 📌 "Last day for $14" | BOOK |
 | 35 | dom 20/12 | "#7: Keeping score." | Reply-to-comment | 🔴 Live nº 3 "Book Q&A" | BOOK |
 | 36 | seg 21/12 | "The Christmas gift that tells her you actually pay attention." | "Nonsexual things women find EXTREMELY attractive, pt. 5" | 🖼️ *Gift ideas that don't cost much but mean everything* | DATE |
 | 37 | ter 22/12 | "Spending Christmas alone? This is for you." | ♻️ Regravar o vencedor da fase 2 | 📌 citação | DATE |
@@ -83,8 +116,8 @@
 | Dia | Data | 🎬 Reel A | 🎬 Reel B | Extra | 🔑 |
 |---|---|---|---|---|---|
 | 38 | qua 23/12 | "How to handle meeting her family over the holidays." | "Texts that kill attraction, pt. 5" | 🖼️ *Meeting her parents: do's & don'ts* | TEXT |
-| 39 | qui 24/12 🎄 | "A short message for every guy who feels he's not enough." *(emocional, para compartilhar)* | — (folga) | 📌 "Merry Christmas from Lena" | — |
-| 40 | sex 25/12 🎄 | Repost leve: o melhor Reel do mês | — | Stories leves | — |
+| 39 | qui 24/12 🎄 | "A short message for every guy who feels he's not enough." *(emocional, para compartilhar)* | — (folga) | 📌 "Merry Christmas from Lena" | BOOK |
+| 40 | sex 25/12 🎄 | Repost leve: o melhor Reel do mês | — | Stories leves | BOOK |
 | 41 | sáb 26/12 | "Boxing Day for the UK lads: here's your dating gift." | "Rejection hurts physically. Here's what to do with it." | 🖼️ *How to handle rejection like a man* | DATE |
 | 42 | dom 27/12 | "Your 2027 dating resolution should be this." | Reply-to-comment | 🔴 Live nº 4 | BOOK |
 | 43 | seg 28/12 | "Open up without oversharing: the one-feeling rule." | "Nonsexual things women find EXTREMELY attractive, pt. 6" | 🖼️ *How to open up emotionally (step by step)* | DATE |
@@ -97,7 +130,7 @@
 
 | Dia | Data | 🎬 Reel A | 🎬 Reel B | Extra | 🔑 |
 |---|---|---|---|---|---|
-| 46 | qui 31/12 🎆 | "Before midnight: let go of the woman who didn't choose you." | — | 📌 "Happy New Year" | — |
+| 46 | qui 31/12 🎆 | "Before midnight: let go of the woman who didn't choose you." | — | 📌 "Happy New Year" | BOOK |
 | 47 | sex 01/01 | "30 days to become the man she chooses. Day 1." *(série de 14 dias)* | — | 🖼️ *The 30-day plan (from the book)* | BOOK |
 | 48 | sáb 02/01 | "Day 2: keep one promise to yourself." | ♻️ Top 2 com gancho novo | — | DATE |
 | 49 | dom 03/01 | "Day 3: clean your room. Seriously." | Reply-to-comment | 🔴 Live nº 5 | BOOK |
@@ -121,7 +154,7 @@
 - **0–2 s:** "Women decide if they're attracted to you in the first three seconds. Here's what they're actually looking at."
 - **2–6 s:** "And no — it's not your face."
 - **6–30 s:** "One: your posture. Are you taking up space like you belong, or shrinking? Two: your eyes. Are they calm, or scanning the room for approval? Three: your pace. Men who move and talk slower look like they're not trying to prove anything. That's what we read as confidence."
-- **30–38 s:** "I wrote a free checklist for your next first date. Comment DATE and I'll send it to you."
+- **30–38 s:** "There's a free checklist for your next first date. Comment DATE and I'll send it to you."
 - **Na tela:** "WOMEN DECIDE IN 3 SECONDS 👀" · legendas dinâmicas · sem música (só voz, igual aos outliers).
 
 ### 🎬 R2 (dia 1B): "You think she's texting other guys"
@@ -146,7 +179,7 @@
 - **30–38 s:** "I wrote a whole chapter on this. Comment BOOK."
 
 ### 🎬 R6 (dia 32A): lançamento do ebook
-- **0–3 s:** "I spent years listening to women talk about men. So I wrote it all down."
+- **0–3 s:** "I'm an AI. I went through decades of research on what makes women stay. Then I wrote it down."
 - **3–25 s:** "'The Intelligent Man's Guide to Women.' Nine chapters. No pickup lines. No manipulation. Just what actually makes a woman respect you, want you and stay. Presence. Texting. Tension. Rejection. Keeping her interested after month six."
 - **25–35 s:** "It's $14 for the next 72 hours. Comment BOOK and I'll DM you the link."
 
@@ -155,7 +188,7 @@
 ## Carrosséis-modelo (texto slide a slide)
 
 ### 🖼️ C1: "7 things women notice before you even speak"
-1. **Capa:** "7 things women notice before you even speak 👀" *(foto da Lena)*
+1. **Capa:** "7 things women notice before you even speak 👀" *(imagem da Lena, com rótulo "AI info")*
 2. Your posture → shrinking reads as insecurity.
 3. Your shoes → clean > expensive.
 4. Your hands → fidgeting = nerves. Still hands = calm.

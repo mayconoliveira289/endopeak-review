@@ -1,6 +1,6 @@
 # Lena Voss: estratégia para 10 milhões de visualizações em 60 dias
 
-**Perfil:** @lenavoss (Instagram) · **Nicho:** relacionamento / conselhos de namoro para homens
+**Perfil:** @lenavoss.talks (Instagram), apresentadora de IA assumida · **Nicho:** relacionamento / conselhos de namoro para homens
 **Público:** homens de 22 a 40 anos nos EUA, Canadá e Reino Unido · **Idioma do conteúdo:** inglês
 **Período:** 60 dias (sugestão: começar na segunda, 16/11/2026; terminar em 14/01/2027)
 **Produto:** ebook de US$ 19 + afiliados (Amazon, BetterHelp, eHarmony, ClickBank)
@@ -50,7 +50,7 @@ O Instagram não distribui views de forma uniforme: **3 a 6 vídeos vão gerar 6
 | Collabs com criadores do nicho | 6 a 8 | 50 a 150 mil | ~0,6 M |
 | **Total** | | | **~10,3 M** |
 
-**Cenário honesto:** uma conta começando do zero pode fazer de 2 a 4 M em 60 dias com esta execução. Os **10 M dependem de 3 ou mais vídeos estourarem**, e por isso o volume e a regra de "reciclar o vencedor" são inegociáveis. Se a conta já tiver público, o cenário de 10 M fica bem mais realista.
+**Cenário honesto (revisado em 14/11/2026):** o perfil tem 3 seguidores e os 2 Reels publicados tiveram 143 e 3 views. Partindo daí, o realista para 60 dias é **50 mil a 500 mil views e 0 a 10 vendas**. Os 10 M ficam como meta de longo prazo (6 a 12 meses). Os marcos que importam agora: 1º Reel acima de 10 mil views → 1.000 seguidores → 1ª venda → 10 vendas.
 
 ### Tráfego pago opcional para acelerar (recomendado)
 Quando um Reel orgânico passar de 3x a sua mediana em 24 h, **turbine esse Reel** (não um criativo novo) com US$ 10 a 20 por dia, público homens de 22 a 40 anos em US/CA/UK, objetivo "Mensagens" (DM). Visualizações pagas também contam e alimentam o funil de DM. Orçamento sugerido: US$ 300 a 600 nos 60 dias.
@@ -59,16 +59,22 @@ Quando um Reel orgânico passar de 3x a sua mediana em 24 h, **turbine esse Reel
 
 ## 3. Posicionamento da Lena Voss
 
-**Quem ela é:** "The woman who tells men the truth about women. No games. No red pill. No BS."
+**Quem ela é:** "The AI that tells men what the research says about women. No ego. No agenda. No red pill."
+**Por que IA é o diferencial:** ela não tem ex, não tem mágoa e não vende "experiência própria". Ela lê a pesquisa (apego, Gottman, psicologia da atração) e traduz para o homem comum. A autoridade vem dos estudos, nunca de "eu vivi isso".
+**Um público só:** homens solteiros ou em início de relacionamento, de 22 a 40 anos. Sai da bio "couples", "desire & intimacy" e "18+", que confundem o algoritmo e reduzem o alcance.
 **Promessa:** ajudar homens bons a deixarem de ser "o cara legal que ninguém escolhe" e virarem o homem que ela respeita e deseja.
 
 **Bio (até 150 caracteres):**
 ```
-Lena Voss | What women won't tell you 💬
-Helping good men become the man she chooses
-📖 Free First-Date Checklist ↓ DM "DATE"
+Lena Voss · AI dating coach for men 🤖
+What the research says women actually want
+No games. No red pill.
+📖 Free First-Date Checklist ↓ or DM "DATE"
 ```
-**Link na bio:** página da Stan Store / Linktree com: (1) checklist grátis, (2) ebook de US$ 19, (3) recursos recomendados.
+(142 caracteres. Mantém "AI" visível, como exige o Instagram, e fala com um público só.)
+
+**Antes de começar:** arquivar ou apagar os posts antigos voltados para casais e para mulheres (incluindo o Reel "Things secure women never do"), para o perfil ficar coerente.
+**Link na bio:** Stan Store com: (1) checklist grátis, (2) ebook de US$ 19, (3) recursos recomendados (afiliados).
 
 **Pilares de conteúdo (mix semanal):**
 
@@ -78,7 +84,9 @@ Helping good men become the man she chooses
 | 💬 Texting e DMs (ruim × bom) | 25% | Alcance + salvamentos + lead | "When she says 'haha' — don't reply this" |
 | 🧠 Psicologia da atração / apego | 15% | Autoridade | "Why she pulled away after a great date" |
 | 💪 Autoestima e postura masculina | 15% | Identificação e compartilhamento | "Nice guys finish last? Here's the truth" |
-| 💰 Oferta (checklist / ebook / provas) | 10% | Conversão | "I wrote the book I wish every man read" |
+| 💰 Oferta direta do ebook | 10% | Conversão | "I'm an AI. Here's the book." |
+
+**Todos os pilares vendem:** cada conteúdo termina com uma palavra-chave que leva ao ebook (cerca de 80%) ou a um produto de afiliado (cerca de 20%: livro da semana, terapia, app de namoro sério). A tabela está no cronograma.
 
 ---
 
@@ -179,5 +187,6 @@ E-mail: sequência de 5 e-mails (nutrição + oferta + afiliados)
 ## 9. Compliance (importante para EUA/UK)
 - **Afiliados:** a FTC (EUA) e a ASA (Reino Unido) exigem divulgação clara. Já está no ebook e deve estar nos posts com link ("#ad" / "affiliate link").
 - **Depoimentos:** use apenas depoimentos **reais** (leitores beta, amigas que leram de verdade) com autorização por escrito. Não invente nomes nem resultados, porque isso é publicidade enganosa pela FTC e pode derrubar a conta e a página de vendas.
-- **Se a Lena Voss for uma persona gerada por IA:** o Instagram exige o rótulo "AI info" em conteúdo realista gerado por IA, e a FTC considera enganoso esconder isso. Deixe claro na bio ("AI-created persona" ou similar).
+- **A Lena é uma persona de IA:** manter "AI" na bio, usar o rótulo "AI info" do Instagram em todo Reel e imagem com o rosto dela, e nunca usar frases como "as a woman" ou "in my experience". O ebook, a página de vendas e as DMs já dizem que ela é IA e que os exemplos são cenários ilustrativos.
+- **Terapia:** a Lena pode indicar o BetterHelp, mas não dá diagnóstico nem promete resultado. Em mensagem de crise, a resposta é orientar a pessoa a procurar ajuda profissional ou de emergência.
 - **Conteúdo:** evitar dicas de manipulação ou pressão sexual. Além de errado, isso faz a Meta reduzir o alcance no nicho de namoro. O tom da Lena é "respeito + atração", e isso protege a conta.

@@ -37,10 +37,11 @@
 | Função | Ferramenta | Por quê | Custo |
 |---|---|---|---|
 | Automação de DM | **ManyChat Pro** | Integração oficial com a Meta, gatilho por comentário, sequências | ~US$ 15/mês |
-| Venda do ebook | **Gumroad** (recomendado) | Aceita cartão e PayPal, cobra em USD, página pronta e simples, fácil para quem compra nos EUA/UK | 10% + taxas |
+| Venda do ebook | **Stan Store** (escolhida) | Feita para criadores do Instagram, cobra em USD, checkout de uma página | Mensalidade, sem % por venda |
+| Alternativa | Gumroad | Sem mensalidade; bom se as vendas ainda forem poucas | 10% + taxas |
 | Alternativa | Kiwify / Hotmart | Melhor se você também quiser vender no Brasil; Hotmart tem checkout internacional | 7–10% |
 | E-mail | **Kit (ConvertKit)**, grátis até 10 mil inscritos | Integra com Gumroad e ManyChat | Grátis |
-| Link na bio | Stan Store ou Linktree | Uma página com checklist + ebook + recursos | Grátis a US$ 29 |
+| Loja e link na bio | **Stan Store** | Uma página só com checklist grátis + ebook + recursos de afiliado; checkout em inglês, em dólar | ~US$ 29/mês |
 
 > **Por que Gumroad e não Hotmart?** O público é americano/britânico. O Gumroad é conhecido lá, o checkout é em inglês, com Apple Pay e PayPal, e menos fricção. A Hotmart serve, mas o checkout passa uma sensação mais "estrangeira" para esse público.
 
@@ -56,8 +57,8 @@
 - "Just DM'd you — go look 👀"
 
 **DM 1 (imediata):**
-> Hey {first_name} 👋 It's Lena.
-> Here's the First-Date Checklist I promised. It's the exact list I wish every man read before a date.
+> Hey {first_name} 👋 It's Lena (yes, the AI one).
+> Here's the First-Date Checklist I promised: one page, everything that matters before a date.
 > Where should I send it?
 > [📧 Send it to my email]  [📲 Just give me the link]
 
@@ -75,13 +76,13 @@
 > [😶 Starting conversations]  [💬 Texting]  [💔 Keeping her interested]  [😔 Dealing with rejection]
 
 **DM 4 (resposta personalizada + oferta):**
-> That's honestly the most common one I hear. I wrote a full chapter on exactly that inside my book, **The Intelligent Man's Guide to Women**: 9 chapters, no pickup lines, no manipulation, just what actually works.
+> That's one of the most common ones. There's a full chapter on exactly that inside my book, **The Intelligent Man's Guide to Women**: 9 chapters, no pickup lines, no manipulation, just what actually works.
 > It's $19, and there's a 15-day money-back guarantee, so zero risk.
 > 👉 [Get the book]
 
 **DM 5 (24 h depois, só se não clicou):**
 > Hey, last thing, then I'll leave you alone 🙂
-> A lot of guys tell me Chapter 8 ("The 7 behaviors that push women away") hit them hard. If you've ever been "a great guy" who still got left, it's for you.
+> Chapter 8 ("The 7 behaviors that push women away") is the one to start with if you've ever been "a great guy" who still got left, it's for you.
 > 👉 [Read it here]
 
 **DM 6 (72 h depois, só se não comprou):** sem venda, só valor
@@ -101,8 +102,26 @@ Igual ao fluxo A, trocando o PDF. Na DM 4 o gancho é: "Texting is Chapter 3 of 
 > Not sure yet? Totally fair. Here's what a beta reader told me: "[depoimento real]"
 > And if it's not for you, you get your money back within 15 days. No questions.
 
+### Fluxos de afiliado: palavras-chave `READ`, `HELP` e `MATCH`
+Os três mandam a pessoa para a **página de recursos** (na Stan Store ou em `lenavoss.com/resources`), onde ficam os links de afiliado. Nunca coloque o link de afiliado direto na DM.
+
+**`READ` (livros, Amazon):**
+> Here's this week's book, plus the short list I recommend to every man 📚
+> 👉 [See the list] *(affiliate links)*
+> Want my own book too? Reply **BOOK**.
+
+**`HELP` (terapia, BetterHelp):**
+> Talking to a licensed therapist is one of the strongest moves a man can make. Here's where you can get matched online:
+> 👉 [See the option] *(affiliate link)*
+> I'm an AI, not a therapist. If you're in crisis, contact local emergency services or a crisis line right away.
+
+**`MATCH` (namoro sério, eHarmony):**
+> If you want a relationship, not another month of swiping, this is the platform I point men to:
+> 👉 [See it here] *(affiliate link)*
+> Before you sign up, grab the free First-Date Checklist: reply **DATE**.
+
 ### Fluxo D: story/DM "ask Lena"
-Palavra-chave `ASK` → resposta: "Send me your question in one message. I read them all and answer the best ones in Reels 🎥". Isso vira pauta de Reels de resposta.
+Palavra-chave `ASK` → resposta: "Send me your question in one message. The best ones get answered in Reels 🎥". Isso vira pauta de Reels de resposta.
 
 ### Configurações importantes no ManyChat
 - Ativar **"Comment auto-reply"** em todos os Reels (Global Trigger por palavra-chave, sem diferenciar maiúscula e minúscula; aceitar "date", "Date", "DATE 🔥").
@@ -136,7 +155,7 @@ Use a seção **BÔNUS** do ebook (Pre-Date + On-Date + After-Date Checklist) co
 | 1 | Imediato | "Your First-Date Checklist 📄" | Entrega + 1 dica + "reply and tell me your hardest part of dating" |
 | 2 | Dia 1 | "The mistake 90% of good men make" | Resumo do Cap. 1 (impress × connect) + link do ebook |
 | 3 | Dia 3 | "Why she pulled away (it's not what you think)" | História do Cap. 6 + oferta do ebook + garantia |
-| 4 | Dia 5 | "The book I'd give my own brother" | Recomendação de *Attached* (link Amazon) + BetterHelp, com valor real e divulgação de afiliado |
+| 4 | Dia 5 | "The one book to read after mine" | Recomendação de *Attached* (link Amazon) + BetterHelp, com valor real e divulgação de afiliado |
 | 5 | Dia 7 | "Last call: $19 → your next relationship" | Oferta final + bundle US$ 39 + FAQ |
 
 Depois disso: newsletter semanal "Lena's Sunday Letter" (1 lição + 1 Reel da semana + 1 recomendação, às vezes de afiliado).
@@ -145,7 +164,7 @@ Depois disso: newsletter semanal "Lena's Sunday Letter" (1 lição + 1 Reel da s
 - **Dentro do ebook:** seção "Recommended Resources" (já escrita, com 6 indicações).
 - **E-mail 4** e newsletter semanal.
 - **Página "Recommended" na Stan Store / Linktree.**
-- **Stories:** "The book that changed how I see relationships" + link (com o selo "affiliate").
+- **Stories:** "The one book I point every man to" + link (com o selo "affiliate").
 - **Nunca** colocar link de afiliado da Amazon em DM automática ou e-mail sem verificar se as regras do programa permitem (a Amazon Associates **proíbe links de afiliado em e-mails e PDFs offline**). Alternativa segura: o ebook e o e-mail apontam para a **sua página de recursos** (ex.: lenavoss.com/resources), e é **lá** que ficam os links da Amazon.
 
 > ⚠️ Isso é importante: na página de recursos, ajuste os links do ebook para `lenavoss.com/resources#attached` etc. Os placeholders do ebook já estão prontos para essa troca.
