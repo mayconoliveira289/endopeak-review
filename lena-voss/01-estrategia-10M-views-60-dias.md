@@ -71,7 +71,7 @@ What the research says women actually want
 No games. No red pill.
 📖 Free First-Date Checklist ↓ or DM "DATE"
 ```
-(142 caracteres. Mantém "AI" visível, como exige o Instagram, e fala com um público só.)
+(146 caracteres, dentro do limite de 150. Mantém "AI" visível, como exige o Instagram, e fala com um público só.)
 
 **Antes de começar:** arquivar ou apagar os posts antigos voltados para casais e para mulheres (incluindo o Reel "Things secure women never do"), para o perfil ficar coerente.
 **Link na bio:** Stan Store com: (1) checklist grátis, (2) ebook de US$ 19, (3) recursos recomendados (afiliados).
